@@ -5,12 +5,13 @@ Mapping Netflix: A Visual Exploration of Content Data
 
 ## Project Overview
 This project involves creating a comprehensive dashboard in Tableau to analyze the Netflix content library. The dashboard visualizes various aspects of the data such as distribution by country, ratings, genres, and release years. The primary goal is to provide insights into the composition and trends within the Netflix catalog.
+
 ![Screenshot 2024-06-14 191733](https://github.com/gayatrikuracha/Mapping_Netflix/assets/167384815/8dcd60ea-b48c-4d38-9911-cad46944b1f6)
 
 
 
 ## Tools Used
-- **Power BI**: For creating the dashboard and visualizations
+- **Tableau**: For creating the dashboard and visualizations
   
 ## Data Source 
 - The Netflix Content Dataset is a comprehensive collection of movies and TV shows available on Netflix, provided in CSV format.
@@ -44,5 +45,5 @@ This project involves creating a comprehensive dashboard in Tableau to analyze t
 3. **Geographical Representation**: The geographical distribution is dependent on the dataset's accuracy in capturing regional availability of content.
 
 ## References
-Tableau Dashboard :[Link].()
-Netflix Dataset : [Link].()
+- Tableau Dashboard :[Link](https://github.com/gayatrikuracha/Mapping_Netflix/blob/main/Netflix%20dashboard.twb)
+- Netflix Dataset : [Link](https://github.com/gayatrikuracha/Mapping_Netflix/blob/main/netflix_titles.csv)
